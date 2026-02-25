@@ -1,10 +1,10 @@
 # Site settings
-title: Cqjude163 Blog
-SEOTitle: Cqjude163的博客 | Cqjude163 Blog
+title: cqjude163 Blog
+SEOTitle: cqjude163的博客 | Cqjude163 Blog
 header-img: img/home-bg.jpg
 email: cqjude@163.com
 description: "这里是 @cqjude163 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "Cqjude163, 鬼栈, Cqjude163的博客, Cqjude163 Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+keyword: "cqjude163, 鬼栈, cqjude163的博客, cqjude163 Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://cqjude163.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: cqjude163
 
 # Netease settings
 netease_comment: false
@@ -67,10 +67,6 @@ netease_comment: false
 # Analytics settings
 # Baidu Analytics
 # ba_track_id: [your track id]
-
-# Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
